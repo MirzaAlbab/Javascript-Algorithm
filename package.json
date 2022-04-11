@@ -1,0 +1,22 @@
+{
+  "name": "testchallenge1",
+  "version": "1.0.0",
+  "description": "testing pada challenge pertama",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MirzaAlbab/Javascript-Algorithm.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "mirza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MirzaAlbab/Javascript-Algorithm/issues"
+  },
+  "homepage": "https://github.com/MirzaAlbab/Javascript-Algorithm#readme"
+}
